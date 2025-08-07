@@ -18,10 +18,4 @@
         <year>1999</year>
         <genre>Programming</genre>
     </book>
-    <book>
-        <title>yeshey</title>
-        <author>tenzin</author>
-        <year>2004</year>
-        <genre>fun</genre>
-    </book>
-</library>
+    </library>
