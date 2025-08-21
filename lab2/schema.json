@@ -1,0 +1,18 @@
+{
+  "title": "Library",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "book": {
+        "type": "string"
+      },
+      "author": {
+        "type": "string"
+      }
+    },
+    "required": ["book", "author"],
+    "additionalProperties": false
+  }
+}
+
